@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GameSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="to_top">To Top</string>
+    <string name="to_bottom">To Bottom</string>
+    <string name="item_string">Item %1$d</string>
+    <string name="title_activity_game_class">GameClassActivity</string>
+
+</resources>
